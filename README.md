@@ -1,5 +1,7 @@
 ## Hi there 👋
-https://lh3.googleusercontent.com/pw/AP1GczMoQwrK13idWPoZFpdhSMsOdQ94iy_eKsk6-Z199p0BDKBgLJjfDtRdjPj67MJDlu2h-QfPaxyyedHOtmyWT802N9SQCcreH1SBSTbRYx7bVIq0Pht7M7-r0-mBM0IpxSkx5tPy-djmUPhCHSjU-1jm=w1560-h878-s-no?authuser=0
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczMoQwrK13idWPoZFpdhSMsOdQ94iy_eKsk6-Z199p0BDKBgLJjfDtRdjPj67MJDlu2h-QfPaxyyedHOtmyWT802N9SQCcreH1SBSTbRYx7bVIq0Pht7M7-r0-mBM0IpxSkx5tPy-djmUPhCHSjU-1jm=w1560-h878-s-no?authuser=0
+" alt="Your image description" width="100%">
 <!--
 **Gudmundl/Gudmundl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
