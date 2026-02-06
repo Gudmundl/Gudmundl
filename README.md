@@ -1,6 +1,6 @@
 # Hi, I'm Gudmund L. Staupe 👋
 
-## Optimizing performance — in training and in code.
+## Optimizing performance both in training and in code.
 
 I’m a Computer Science student and a international level sprint kayaker in K1 1000m focused on one thing: **continuous optimization**.
 
@@ -44,13 +44,13 @@ Performance is engineered — not hoped for.
   ...
 
 **Interests**
-- AI Applications
+<!--- AI Applications
 - Optimization
 - Distributed Systems
 - Networking
 - Algorithms
 - Data Analysis
-
+-->
 ---
 
 
