@@ -18,9 +18,11 @@ Using AI to reliably optimize operational efficiency and quality of execution, c
 Deepening expertise in:
 - Systems & Networking
 - Performance Engineering
-- Reliable Transport Protocols
-- Clean Architecture & Scalable Design
+- Resource Effective Programming
+- Clean Architecture
+- Scalable Design
 - AI-driven optimization
+
 
 ---
 
