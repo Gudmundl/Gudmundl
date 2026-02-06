@@ -1,4 +1,4 @@
-# Hi, I'm Gudmund 👋
+# Hi, I'm Gudmund Lønning Staupe 👋
 
 ## Optimizing performance — in training and in code.
 
