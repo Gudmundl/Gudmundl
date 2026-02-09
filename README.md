@@ -1,4 +1,4 @@
-# Hi, I'm Gudmund L. Staupe 👋
+# Hi, I'm Gudmund L. Staupe 👋 | Heres my AI slop Github page:
 
 ## Optimizing performance both in training and in code.
 
